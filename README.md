@@ -1,4 +1,4 @@
-# Feature-Extraction-Library-MATLAB ![badmath]([https://img.shields.io/badge/matlab-MATLAB-orange](https://img.shields.io/badge/MATLAB-100%25-orange))
+# Feature-Extraction-Library-MATLAB ![frank](https://img.shields.io/badge/MATLAB-100%25-orange)
 
 * Functions:
   - `retrieve_tr_files.m` - Retrieve the TR for the above videos
