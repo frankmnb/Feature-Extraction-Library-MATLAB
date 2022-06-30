@@ -1,4 +1,5 @@
 # Feature-Extraction-Library-MATLAB
 
 Functions
-- Extract frames from video
+- Retrieve videos to be processed
+- Retrieve the TR for the above videos
