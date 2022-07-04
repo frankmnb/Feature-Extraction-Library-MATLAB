@@ -6,11 +6,12 @@
 %   Input -----
 %      'dirs': cell array of paths to extracted bounding boxes
 %      'odir': directory to code files
+%      'acum': average image sizes for each dataset
 %
 %   Output -----
 %      'feats': Cell array of low level features
 %--------------------------------------------------------------------------
-function feats = extract_low_level_features(dirs,odir)
+function feats = extract_low_level_features(dirs,odir,acum)
     feats = {};
 
     for i = 1:numel(dirs)
