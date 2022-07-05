@@ -5,3 +5,4 @@
   - `retrieve_video_files.m` - Retrieve videos to be processed
   - `video_to_snips.m` - Extract bounding boxes from a video
   - `extract_low_level_features.mat` - Extracts RGB, HOG and LBP features
+  - `visualise_features.mat` - Plots a figure of high-/low-level features for comparison
